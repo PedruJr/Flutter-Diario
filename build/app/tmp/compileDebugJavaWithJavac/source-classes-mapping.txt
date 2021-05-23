@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/agenda_de_contatos_palhoca/BuildConfig.java
+ com.example.agenda_de_contatos_palhoca.BuildConfig
